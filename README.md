@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ramki-t
-- 👀 I’m interested in CI/CD
-- 🌱 I’m currently learning admission controller for vulnerability scanning
+- 👀 I am a Technical Enablement Manager
 - 📫 How to reach me: email - ramki.thurimella@lacework.com
 
 <!---
